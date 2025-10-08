@@ -1,4 +1,0 @@
-h=int(input("enter height"))
-b=int(input("enetr base"))
-a=1/2*(b*h)
-print("your area is:",a,"cm^2")

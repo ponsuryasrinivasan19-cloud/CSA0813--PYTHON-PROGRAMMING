@@ -1,6 +1,0 @@
-Time,Vehicle_Count,Vehicle_Type,Road_ID,Accidents
-08:00,50,Car,R1,0
-08:00,30,Bike,R1,0
-09:00,70,Car,R2,1
-10:00,40,Bus,R1,0
-11:00,60,Car,R2,0
